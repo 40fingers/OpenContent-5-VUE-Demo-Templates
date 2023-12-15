@@ -1,6 +1,6 @@
 # DNN OpenContent VUE builder Demo Templates
 
-Open Content 5 contains a new Form editor based on VUE.js
+[Open Content](https://opencontent.readme.io/) 5 contains a new Form editor based on VUE.js
 See: https://opencontent.readme.io/docs/migrating-existing-templates-to-builder-v2
 
 
