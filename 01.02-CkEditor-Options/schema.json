@@ -18,6 +18,7 @@
       "type": "string"
     },
     "CKEditor3CustomOptions": {
+      "title": "CkEditor Custom",
       "type": "string"
     }
   }
