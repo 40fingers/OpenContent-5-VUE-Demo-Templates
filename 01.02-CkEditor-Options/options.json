@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "CKEditor": {
+      "dependencies": {},
+      "type": "ckeditor"
+    },
+    "CKEditor2BBasic": {
+      "dependencies": {},
+      "type": "ckeditor",
+      "configset": "basic"
+    },
+    "CKEditor2BDefault": {
+      "dependencies": {},
+      "type": "ckeditor",
+      "configset": "default"
+    },
+    "CKEditor2CFull": {
+      "dependencies": {},
+      "type": "ckeditor",
+      "configset": "full"
+    },
+    "CKEditor3CustomOptions": {
+      "type": "ckeditor1"
+    }
+  }
+}

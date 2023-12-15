@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "properties": {
+    "CKEditor": {
+      "title": "CkEditor No Options",
+      "type": "string"
+    },
+    "CKEditor2BBasic": {
+      "title": "CkEditor Basic",
+      "type": "string"
+    },
+    "CKEditor2BDefault": {
+      "title": "CkEditor Default Options",
+      "type": "string"
+    },
+    "CKEditor2CFull": {
+      "title": "CkEditor Full Set",
+      "type": "string"
+    },
+    "CKEditor3CustomOptions": {
+      "type": "string"
+    }
+  }
+}
